@@ -1,0 +1,93 @@
+.outer-box-style {
+    margin-top: 100px !important;
+    padding-bottom: 284px !important;
+}
+
+.welcome-text-style {
+    font-size: 42px !important;
+    font-family: unset !important;
+}
+
+.go-to-menu-btn.MuiButton-root{
+    background-color: #6d1be0;
+    color: #ffffff !important;
+}
+
+.go-to-menu-btn.MuiButton-root:hover {
+    background-color: #6d1be0;
+}
+
+.go-to-menu-btn.MuiButton-root .MuiButton-label {
+     font-weight: 800 !important;
+ }
+
+ .item-card {
+    width: 249px;
+    box-shadow: rgb(0 0 0 / 29%) 0px 2px 5px, rgb(0 0 0 / 10%) 0px 1px 2px !important;
+ }
+
+ .item-main-grid {
+     /* padding: 5px !important; */
+ }
+
+ .outer-grid {
+     padding: 47px 158px 10px 204px;
+ }
+
+ .inner-grid.MuiGrid-container {
+     grid-gap: 46px !important;
+ }
+
+ .image-style {
+     width: 256px ;
+     height: 171px;
+ }
+
+ .item-name-style {
+     /* margin-left: -111px !important;
+     margin-top: 10px !important; */
+     font-size: 22px !important;
+     text-align: initial !important;
+ }
+
+ .item-price-style {
+    text-align: initial !important;
+ }
+
+ .meta-info-style {
+     padding: 10px;
+ }
+
+ .item-action-style-box {
+     display: flex !important;
+     padding: 0px 10px 10px 10px !important;
+ }
+
+ .decrement-btn-style {
+     margin-left: 15px !important;
+ }
+
+ .d-btn-color.MuiButton-root{
+    background-color: #dd4b5f;
+    color: #ffffff !important;
+}
+
+.d-btn-color.MuiButton-root:hover {
+    background-color: #dd4b5f;
+}
+
+.d-btn-color.MuiButton-root .MuiButton-label {
+     font-weight: 800 !important;
+ }
+
+ .item-action-style-box-on-price-small {
+    display: flex !important;
+    padding: 0px 10px 10px 10px !important;
+    /* margin-top: 47px !important; */
+ }
+
+ .action-box-style {
+    display: flex !important;
+    padding: 0px 10px 10px 10px !important;
+    margin-top: 47px !important;
+ }

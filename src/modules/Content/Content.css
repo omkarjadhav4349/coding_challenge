@@ -1,0 +1,22 @@
+.outer-box-style {
+    margin-top: 100px !important;
+    padding-bottom: 284px !important;
+}
+
+.welcome-text-style {
+    font-size: 42px !important;
+    font-family: unset !important;
+}
+
+.go-to-menu-btn.MuiButton-root{
+    background-color: #6d1be0;
+    color: #ffffff !important;
+}
+
+.go-to-menu-btn.MuiButton-root:hover {
+    background-color: #6d1be0;
+}
+
+.go-to-menu-btn.MuiButton-root .MuiButton-label {
+     font-weight: 800 !important;
+ }
